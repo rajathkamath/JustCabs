@@ -1,6 +1,6 @@
 # JustCabs
 
-# Chat It
+# just cabs
 <p align="center">
 <img  height="200" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/ChatIt%2Fchatitlogo.png?alt=media&token=29d30346-147b-4172-808a-dee9fac69276"></img>
 </p>
