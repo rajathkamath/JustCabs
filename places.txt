@@ -1,0 +1,34 @@
+<input list="places" name="place">
+  <datalist id="places">
+<option value="kodialbail">
+<option value="hampankatta">
+<option value="konchady">
+<option value="bondal">
+<option value="kavoor">
+<option value="managudda">
+<option value="ladyhill">
+<option value="urwa market">
+<option value="urwa store">
+<option value="carstreet">
+<option value="Panambur Beach">
+<option value="Kudroli">
+<option value="Sultan Battery">
+<option value="Mangaladevi">
+<option value="Kateel">
+<option value="Vamanjur">
+<option value="City Centre Mall">
+<option value="Kadri ">
+<option value="Tannirbhavi Beach">
+<option value="Milagres">
+<option value="Surathkal">
+<option value="Bejai">
+<option value="ksrtc">
+<option value="kapikad">
+<option value="lalbhagh">
+<option value="balalbhagh">
+<option value="jyothi">
+<option value="bunts hostal">
+<option value="kankanady">
+<option value="Forum Fiza Mall">
+</datalist>
+  <input type="submit">

@@ -1,0 +1,32 @@
+insert into place VALUES ( 'kodialbail', 2);
+insert into place VALUES ( 'hampankatta, 3);
+insert into place VALUES ( 'konchady, 6);
+insert into place VALUES ( 'bondel, 8);
+insert into place VALUES ( 'kavoor, 10);
+insert into place VALUES ( 'managudda, 5);
+insert into place VALUES ( 'ladyhill, 4);
+insert into place VALUES ( 'urwa market, 7);
+insert into place VALUES ( 'urwa store, 9);
+insert into place VALUES ( 'carstreet, 1);
+insert into place VALUES ( 'Panambur Beach, 15);
+insert into place VALUES ( 'Kudroli, 3);
+insert into place VALUES ( 'Sultan Battery, 8);
+insert into place VALUES ( 'Mangaladevi, 7);
+insert into place VALUES ( 'Kateel, 18);
+insert into place VALUES ( 'Vamanjur, 12);
+
+
+insert into place VALUES ( 'City Centre Mall, 1);
+insert into place VALUES ( 'Kadri , 5);
+insert into place VALUES ( 'Tannirbhavi Beach, 13);
+insert into place VALUES ( 'Milagres, 3);
+insert into place VALUES ( 'Surathkal, 20);
+insert into place VALUES ( 'Bejai, 8);
+insert into place VALUES ( 'ksrtc, 4);
+insert into place VALUES ( 'kapikad, 6);
+insert into place VALUES ( 'lalbhagh, 4);
+insert into place VALUES ( 'balalbhagh, 2);
+insert into place VALUES ( 'jyothi, 4);
+insert into place VALUES ( 'bunts hostal, 8);
+insert into place VALUES ( 'kankanady, 9);
+insert into place VALUES ( 'Forum Fiza Mall, 6);

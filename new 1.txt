@@ -1,0 +1,57 @@
+insert into micro (vname,vtype,vregno) value ('Santro','micro','KA19AZ2369');
+insert into micro (vname,vtype,vregno) value ('800','micro','KA19AZ8963');
+insert into micro (vname,vtype,vregno) value ('Alto','micro','KA19AZ7896');
+insert into micro (vname,vtype,vregno) value ('Quid','micro','KA19AZ3654');
+
+insert into mini (vname,vtype,vregno) value ('Swift','mini','KA19AZ1236');
+insert into mini (vname,vtype,vregno) value ('Ritz','mini','KA19AZ1456');
+insert into mini (vname,vtype,vregno) value ('Figo','mini','KA19AZ1895');
+insert into mini (vname,vtype,vregno) value ('I10','mini','KA19AZ1236');
+
+insert into sedan (vname,vtype,vregno) value ('Etios','sedan','KA19AZ5691');
+insert into sedan (vname,vtype,vregno) value ('Aspire','sedan','KA19AZ2369');
+insert into sedan (vname,vtype,vregno) value ('Ikon','sedan','KA19AZ3694');
+insert into sedan (vname,vtype,vregno) value ('Fiesta','sedan,'KA19AZ5697');
+insert into sedan (vname,vtype,vregno) value ('Swift desize','sedan','KA19AZ3647');
+
+insert into suv (vname,vtype,vregno) value ('Innova','SUV','KA19AZ1256');
+insert into suv (vname,vtype,vregno) value ('Sumo','SUV','KA19AZ7563');
+insert into suv (vname,vtype,vregno) value ('Tavera','SUV','KA19AZ8963');
+insert into suv (vname,vtype,vregno) value ('Forrtuner','SUV','KA19AZ7569');
+
+if($result){
+           echo "<div class='form'>
+<center><h2>booking successfully.</h3></center>
+<br/><center>Click here to <a href='billcity.php'>Generate bill.</a></center></div>";
+
+insert into outplace values('udupi',55);
+insert into outplace values('manipal',61);
+insert into outplace values('kaup',43);
+insert into outplace values('moodubidiri',34);
+insert into outplace values('padubidiri',31);
+insert into outplace values('karkala',53);
+insert into outplace values('dharmasthala',75);
+insert into outplace values('subramanya',106);
+insert into outplace values('malpe',61);
+insert into outplace values('sasihithlu',20);
+insert into outplace values('kudremukh',100);
+insert into outplace values('ullal',22);
+insert into outplace values('nitte',52);
+insert into outplace values('polali',24);
+insert into outplace values('benjanapadavu',22);
+insert into outplace values('Venur',53);
+insert into outplace values('hemman gundi',55);
+insert into outplace values('someshwara',15);
+insert into outplace values('kinnigoli',22);
+insert into outplace values('kenchenkere',27);
+insert into outplace values('kanegadde',126);
+insert into outplace values('puttur',52);
+insert into outplace values('Bantwal',30);
+insert into outplace values('BC road',25);
+insert into outplace values('talapady',24);
+insert into outplace values('kasaragod',52);
+insert into outplace values('panemangalur',27);
+insert into outplace values('vitla',43);
+insert into outplace values('uppinangady',54);
+insert into outplace values('Vaman padavu',42);
+       }
