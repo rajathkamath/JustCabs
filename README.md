@@ -1,6 +1,6 @@
 # JustCabs
 
-# Chat It
+# just cabs
 <p align="center">
 <img  height="200" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/ChatIt%2Fchatitlogo.png?alt=media&token=29d30346-147b-4172-808a-dee9fac69276"></img>
 </p>
@@ -33,7 +33,7 @@ Firebase Cloud Messaging<br>
 
 
 ### Description
-<p>Chat-It is a Firebase based Android Open-Source app For developers to refer in case they want to integrate Chatting capabilities to their application. Users can search for other users and also notifications will be sent when the users chat with each other. Users can also update their In-App Profile picture, this feature uses Firebase cloud storage. Firebase Cloud messaging is used for one-to-one notification. Feel free to check the app and contribute. Let's make the application better together.</p>
+<p>Chat-It is a Firebase based Android Open-Source app For developers to refer in case they want to integrate Chatting capabilities to their application. Users can search for other users and also notifications will be sent when the users chat with each other. Users can also update their In-App Profile picture, this feature uses Firebase cloud storage. Firebase Cloud messaging is used for one-to-one notification. Feel free to check the app and contribute. Let's make this application better together.</p>
 
 License
  -------
