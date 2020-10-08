@@ -1,41 +1,36 @@
-# JustCabs
+# JUSTCABS-Online Cab Rental System
 
-# just cabs
 <p align="center">
-<img  height="200" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/ChatIt%2Fchatitlogo.png?alt=media&token=29d30346-147b-4172-808a-dee9fac69276"></img>
+<img  height="100" src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/new/logo2.jpg"></img>
 </p>
 
 ### screenshots :rocket:
-|<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/ChatIt%2FchatUI.jpg?alt=media&token=0bea91db-acae-4493-bad9-69ed95231d48" width=175> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/ChatIt%2FKeep%20track%20of%20your%20Chats.jpg?alt=media&token=b69a8d75-36f1-4607-9237-d8579cae822b" width=175>|  <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/ChatIt%2Fsearch.jpg?alt=media&token=9cbab7ec-709d-4e99-b3f6-412b11243a98" width=175> |<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/ChatIt%2Fmaterial%20design.jpg?alt=media&token=4e5583fb-5720-466f-8897-7efa8900f48b" width=175> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/ChatIt%2Fgoogle%20material%20design.jpg?alt=media&token=a64e3f5c-81a5-40c2-adaa-ee68f09d04b7" width=175>|  <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/ChatIt%2FBOTTOM%20NAVIGATION.jpg?alt=media&token=66822a1a-f569-4e8a-89eb-f2b894a2dc20" width=175>|
-|:---:|:---:|:---:|:---:|:---:|:---:|
+<img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/4home.png" width=500> <img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/1login.png" width=500>
 
-### Tools :fire:
-|<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F1200px-Android_Studio_icon.svg.png?alt=media&token=c696a2c6-181d-4ef2-b235-a200306833ca" width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ffirebase.png?alt=media&token=b31bf89b-27a9-4192-9c7f-ae8eedb56554 " width=60> | 
+### Programming languages :rocket:
+|<img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/html-flat.png" width=60> | <img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/css.png" width=60> | 
 |:---:|:---:|
 
- ### Clone Repository
- ```
-  https://github.com/adityakamath16/ChatIt.git
- ```
-
-<p><h3>Features : </h3></p>
-○ Login/signup feature<br>
-○ Google material design UI<br>
-○ Uses Googles way of material design<br>
-○ Uses Firebase Realtime Database Users to chat with each other<br>
-○ Used different open source libraries to create the app<br>
-○ Notification feature is available when a friend sends messages<br>
-
-<p><h3>Requirements : </h3></p>
-Firebase Realtime Database<br>
-Firebase Storage<br>
-Firebase Cloud Messaging<br>
+### Tools :fire:
+|<img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/WampServer.png" width=60> | <img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/brackets.png" width=60> | 
+|:---:|:---:|
 
 
-### Description
-<p>Chat-It is a Firebase based Android Open-Source app For developers to refer in case they want to integrate Chatting capabilities to their application. Users can search for other users and also notifications will be sent when the users chat with each other. Users can also update their In-App Profile picture, this feature uses Firebase cloud storage. Firebase Cloud messaging is used for one-to-one notification. Feel free to check the app and contribute. Let's make this application better together.</p>
+<p><h3>Features available: </h3></p>
+Login/signup feature for both admin and user<br>
+Choose Destination/pickup<br>
+assign Random driver to an user<br>
+Generate bill for the user<br>
+Uses PHP MY ADMIN for all the backend storage<br>
+Admin can have full access to registration details<br>
+Password of user is protected with encryption<br>
 
-License
+### DESCRIPTION
+<p>It can be used by all kinds of users for the best booking experience, and without having to call the booking services. The amount to be paid will be provided in advance to the users well in advance. Online Cab Booking System specializing in Hiring cabs to customers. It is an online system through which customers can view available cabs; register the cabs, view profile and book cabs.Cab booking service is a major transport service provided by the various transport operators in a particular city. Mostly peoples use cab service for their daily transportations need. The company must be aregistered and fulfils all the requirements and security standards set by the transport department.
+Online Cab Booking System is a web based platform that allows your customers to book their taxi's and executive taxis all online from the comfort of their own home or office. The platform should offer an administration interface where the taxi company can manage the content, and access all bookings and customer information. More and more Taxi companies are looking for integrated taxi booking systems as it makes life much easier for the customers.</p>
+<p align="center">
+
+ License
  -------
  
      Copyright 2020 adityakamath16
